@@ -10,3 +10,6 @@ This web page has been developed with the intention of showcasing the resort's f
 # Contact Information
 Mobile Number: 0758926990
 e-mail: mbiraken17@gmail.com
+# Licence information
+Type: MIT
+Copyright 2021 
